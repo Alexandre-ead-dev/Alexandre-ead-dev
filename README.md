@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-developer Nodejs, Javascript, CSS/HTML, Reactjs, Expressjs ...<br>
+Developer Nodejs, Javascript, CSS/HTML, Reactjs, Expressjs ...<br>
 
 
 ## 🌐 Socials:
