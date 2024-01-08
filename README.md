@@ -20,6 +20,3 @@ Developer Nodejs, Javascript, CSS/HTML, Reactjs, Expressjs ...<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AlexandreEadDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlexandreEadDev&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
